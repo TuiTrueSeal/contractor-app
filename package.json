@@ -1,7 +1,7 @@
 {
-  "name": "trueseal-contractor-app",
+  "name": "tui-contractor-app",
   "version": "0.1.0",
-  "description": "Open-source contractor PWA for TrueSeal — daily check-ins, JSAs, photo uploads, and mental health support for NZ tradespeople",
+  "description": "Open-source contractor PWA by Tui — daily check-ins, JSAs, photo uploads, and mental health support for NZ tradespeople",
   "private": false,
   "scripts": {
     "dev": "vite",
