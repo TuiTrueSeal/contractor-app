@@ -35,6 +35,7 @@ Test on mobile. Chrome DevTools device emulation is fine for layout; use a real 
 - `ui` — mobile UX improvements, accessibility, dark theme polish
 - `offline` — service worker, sync queue for poor-signal sites  
 - `camera` — native camera access, GPS metadata preservation
+- `learning` — new lesson content (NZBC, methodology, products) following the schema in `src/data/lessons.seed.js`
 - `i18n` — te reo Māori translation (we'll connect you with a reviewer)
 - `testing` — unit + integration tests (there aren't many yet)
 

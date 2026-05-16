@@ -28,6 +28,10 @@ export default function Home({ contractor }) {
           <span className="icon">💙</span>
           <span>How are you doing?</span>
         </Link>
+        <Link to="/learning" className="card">
+          <span className="icon">📚</span>
+          <span>Today's Lesson</span>
+        </Link>
       </nav>
 
       {contractor?.tier && (

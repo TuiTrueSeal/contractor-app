@@ -24,6 +24,7 @@ This is the contractor-facing side of that platform. We're opening it up because
 - 📋 **JSA (Job Safety Analysis)** — guided, mobile-first, GPS-tagged
 - 📸 **Daily report** — photo upload with location verification, work summary
 - 💙 **Wellbeing check-in** — daily, private, routed to the team if support is needed
+- 📚 **Learning portal** — daily lessons on NZBC standards, installation methodology, and approved products. Short, practical, tier-appropriate
 - 🏆 **Tier & rewards** — Starter → Journeyman → Master, quality scoring, vouchers
 
 ---
