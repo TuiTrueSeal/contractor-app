@@ -32,6 +32,10 @@ export default function Home({ contractor }) {
           <span className="icon">📚</span>
           <span>Today's Lesson</span>
         </Link>
+        <Link to="/marketplace" className="card deals">
+          <span className="icon">🔥</span>
+          <span>Supplier Drops</span>
+        </Link>
       </nav>
 
       {contractor?.tier && (

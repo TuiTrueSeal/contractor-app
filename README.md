@@ -25,6 +25,7 @@ This is the contractor-facing side of that platform. We're opening it up because
 - 📸 **Daily report** — photo upload with location verification, work summary
 - 💙 **Wellbeing check-in** — daily, private, routed to the team if support is needed
 - 📚 **Learning portal** — daily lessons on NZBC standards, installation methodology, and approved products. Short, practical, tier-appropriate
+- 🔥 **Supplier marketplace** — exclusive deals and time-limited drops from Sika, Viking Roofspec, KattSafe and more. WhatsApp-linked ordering. Tier-gated early access.
 - 🏆 **Tier & rewards** — Starter → Journeyman → Master, quality scoring, vouchers
 
 ---
