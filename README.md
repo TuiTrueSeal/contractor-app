@@ -1,8 +1,8 @@
-# TrueSeal Contractor App
+# Tui Contractor App
 
 **An open-source Progressive Web App for New Zealand tradespeople.**
 
-Built by [TrueSeal Limited](https://trueseal.co.nz) — a commercial building maintenance company in Wellington, NZ.
+Built by [Tui](https://trueseal.co.nz) — an AI platform for the NZ trades industry, created by TrueSeal Limited in Wellington.
 
 ---
 
@@ -103,4 +103,4 @@ MIT — use it, fork it, build on it. Just don't remove the wellbeing check-in.
 ## Contact
 
 Stefan Badenhorst — stefan@trueseal.co.nz
-TrueSeal Limited, Wellington, New Zealand
+Tui / TrueSeal Limited, Wellington, New Zealand
