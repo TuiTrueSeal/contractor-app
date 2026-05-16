@@ -1,0 +1,78 @@
+/* TrueSeal Design System — Tui by TrueSeal
+ * Source: Official brand logo
+ * Aesthetic: Cyber-organic. Dark intelligence. NZ native tech.
+ * Last updated: 2026-05-16
+ */
+
+:root {
+  /* ── Core Palette ─────────────────────────────────────── */
+  --color-void:        #030810;   /* deepest background — almost black with blue undertone */
+  --color-dark:        #0a0f1e;   /* card backgrounds, panels */
+  --color-surface:     #0f1929;   /* elevated surfaces */
+  --color-border:      #1a2a3a;   /* subtle borders */
+
+  /* ── Cyan — The Tui Glow ──────────────────────────────── */
+  --color-cyan:        #00c8ff;   /* primary accent — electric cyan from logo */
+  --color-cyan-bright: #40dfff;   /* hover states, highlights */
+  --color-cyan-dim:    #0088bb;   /* secondary cyan, inactive */
+  --color-cyan-ghost:  rgba(0, 200, 255, 0.08);  /* subtle glow backgrounds */
+  --color-cyan-glow:   rgba(0, 200, 255, 0.25);  /* focus rings, active glows */
+
+  /* ── Text ─────────────────────────────────────────────── */
+  --color-text-primary:   #ffffff;
+  --color-text-secondary: #8ab4c8;  /* muted — like the code overlay in the logo */
+  --color-text-dim:       #3d5a6b;  /* very subtle, timestamps, metadata */
+
+  /* ── Functional Colours ───────────────────────────────── */
+  --color-success:    #00e676;   /* clean job, approved */
+  --color-warning:    #ffb300;   /* flag, pending */
+  --color-danger:     #ff3d3d;   /* H&S flag, integrity issue */
+  --color-wellbeing:  #7c4dff;   /* wellbeing screen — distinct, calm */
+  --color-drop:       #ff6b00;   /* deal drop urgency — orange */
+
+  /* ── Typography ───────────────────────────────────────── */
+  --font-primary:  'Inter', 'SF Pro Display', system-ui, sans-serif;
+  --font-mono:     'JetBrains Mono', 'Fira Code', monospace; /* for code overlay aesthetic */
+
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
+  --text-base: 1rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.375rem;
+  --text-2xl:  1.75rem;
+  --text-3xl:  2.25rem;
+
+  --weight-regular: 400;
+  --weight-medium:  500;
+  --weight-bold:    700;
+  --weight-black:   900;
+
+  /* ── Spacing ──────────────────────────────────────────── */
+  --space-1:  0.25rem;
+  --space-2:  0.5rem;
+  --space-3:  0.75rem;
+  --space-4:  1rem;
+  --space-5:  1.25rem;
+  --space-6:  1.5rem;
+  --space-8:  2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+
+  /* ── Radius ───────────────────────────────────────────── */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* ── Shadows & Glows ──────────────────────────────────── */
+  --glow-cyan:    0 0 20px rgba(0, 200, 255, 0.3), 0 0 60px rgba(0, 200, 255, 0.1);
+  --glow-cyan-sm: 0 0 8px rgba(0, 200, 255, 0.4);
+  --shadow-card:  0 4px 24px rgba(0, 0, 0, 0.6);
+  --shadow-drop:  0 8px 32px rgba(0, 0, 0, 0.8);
+
+  /* ── Transitions ──────────────────────────────────────── */
+  --transition-fast:   150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow:   400ms ease;
+}
